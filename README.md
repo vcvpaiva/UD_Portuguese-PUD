@@ -104,7 +104,7 @@ Fernando Pereira, Hans Uszkoreit, Aljoscha Burchardt, Vivien Macketanz,
 Ali Elkahky, Abhijit Barde, Tolga Kayadelen, ...
 
 
-=== Machine-readable metadata (DO NOT REMOVE!) ================================
+Machine-readable metadata (DO NOT REMOVE!) 
 Data available since: UD v2.1
 License: CC BY-SA 3.0
 Includes text: yes
@@ -117,4 +117,4 @@ Relations: converted from manual
 Contributors: Uszkoreit, Hans; Macketanz, Vivien; Burchardt, Aljoscha; Harris, Kim; Marheinecke, Katrin; Petrov, Slav; Kayadelen, Tolga; Attia, Mohammed; Elkahky, Ali; Yu, Zhuoran; Pitler, Emily; Lertpradit, Saran; Mendonça, Gustavo; Rinaldi, Larissa; Popel, Martin; Zeman, Daniel; de Paiva, Valeria
 Contributing: here
 Contact: zeman@ufal.mff.cuni.cz
-===============================================================================
+
