@@ -42,9 +42,9 @@ employ ten-fold cross-validation.
 
 
 
-==================
+
 README FROM GOOGLE
-==================
+
 
 A description of how the treebanks were generated can be found in:
 
@@ -67,9 +67,9 @@ languages. The original English Stanford guidelines can be found here:
 
   http://nlp.stanford.edu/software/dependencies_manual.pdf
 
-================================
+
 Fine-grained part-of-speech tags
-================================
+
 
 In the CoNLL file format there is a coarse part-of-speech tag field (4) and a
 fine-grained part-of-speech tag field (5). In this data release, we use the
@@ -78,9 +78,9 @@ consistent across languages. The fine-grained field contains potentially richer
 part-of-speech information depending on the language, e.g., a richer tag
 representation for clitics.
 
-=========================
+
 Licenses and terms-of-use
-=========================
+
 
 We will distinguish between two portions of the data:
 
@@ -88,16 +88,16 @@ We will distinguish between two portions of the data:
 
 2. The annotations -- part-of-speech tags and dependency annotations. GOOGLE MAKES THEM AVAILABLE TO YOU 'AS IS', WITHOUT ANY WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED.
 
-=======
+
 Contact
-=======
+
 
 slav@google.com
-tbd
 
-=======
+
+
 Acknowledgements
-=======
+
 
 We are greatful to the many people who made this dataset possible:
 Fernando Pereira, Hans Uszkoreit, Aljoscha Burchardt, Vivien Macketanz,
