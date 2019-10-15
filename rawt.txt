@@ -1,0 +1,42 @@
+# newdoc id = n01001
+# sent_id = n01001011
+# text = "Embora uma grande parte da transição digital nos Estados Unidos seja sem precedentes, a transição pacífica de poder não o é," escreveu Kori Schulman, assistente especial de Obama, numa publicação no blog, na segunda-feira.
+# text_en = “While much of the digital transition is unprecedented in the United States, the peaceful transition of power is not,” Obama special assistant Kori Schulman wrote in a blog post Monday.
+
+# sent_id = n01001013
+# text = Para aqueles que seguem as transições das redes sociais no Capitol Hill, esta será um pouco diferente.
+# text_en = For those who follow social media transitions on Capitol Hill, this will be a little different.
+
+# newdoc id = n01002
+# sent_id = n01002017
+# text = Mas numa pausa da sua retórica passada acerca da restrição da imigração, o nomeado do GOP anunciou que, como presidente, ele iria permitir "números tremendos" de imigrantes legais, baseado num "sistema de mérito".
+# text_en = But in a break from his past rhetoric about curtailing immigration, the GOP nominee proclaimed that as president he would allow “tremendous numbers” of legal immigrants based on a “merit system.”
+
+# sent_id = n01002032
+# text = "Então, eu odeio pôr um pouco de pressão em vocês, mas o destino da republica está nos seus ombros," disse ele à multidão reunida num campo esportivo da Universidade de Carolina do Norte.
+# text_en = “So I hate to put a little pressure on you, but the fate of the republic rests on your shoulders,” he told the crowd gathered on a sports field at the University of North Carolina.
+
+# sent_id = n01002042
+# text = Os novos gastos são alimentados pela grande conta bancária de Clinton.
+# text_en = The new spending is fueled by Clinton’s large bank account.
+
+# sent_id = n01002058
+# text = O que ela está dizendo e o que ela está fazendo, na verdade, é inacreditável.
+# text_en = What she’s saying and what she’s doing, it — actually, it’s unbelievable.
+
+# newdoc id = n01003
+# sent_id = n01003007
+# text = $5,000 por pessoa, o máximo permitido.
+# text_en = $5,000 per person, the maximum allowed.
+
+# sent_id = n01003010
+# text = No início de outubro, a equipe de transição utilizou o mesmo local para se encontrar com os lobistas, convidando os representantes da Uber, da Motion Picture Association of America, da Consumer Technology Association ede outros grupos.
+# text_en = In early October, the transition team used the same venue to meet with technology lobbyists, inviting representatives from Uber, the Motion Picture Association of America, the Consumer Technology Association and other groups.
+
+# sent_id = n01003012
+# text = O encontro foi originalmente marcado para o seleto Metropolitan Club de Washington, na Rua H, a uns poucos quarteirões de distância.
+# text_en = The gathering was originally slated for Washington’s private Metropolitan Club on H Street a few blocks away.
+
+# sent_id = n01003013
+# text = Possivelmente a indumentária aconselhada foi muito rígida.
+# text_en = Maybe the dress code was too stuffy.
